@@ -1,10 +1,13 @@
-# janriyavong
+# 안녕하세요-!
 
 <div align="center">
 
-# 🟢 janriyavong.exe — SYSTEM INITIALIZED
+# Allow me-! to introduce myself ❀
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=UNIVERSITY+STUDENT;GAME+DESIGN+MAJOR;ENTP+SYSTEM+ANALYST;BUILDING+MULTIVERSE+NARRATIVES)](https://git.io/typing-svg)
+Hiシ, my name is Jan TH/EN . You can call me by the first month of the year in any language जनवरी,Январь,一月,いちがつ,일월, just tell me which language it is ;p
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=%E1%83%90++game+design+student.;I+enjoy+writing+novels;and+am+currently+learning+to+code)](https://git.io/typing-svg)
 
 ---
 ---
