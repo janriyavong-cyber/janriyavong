@@ -17,6 +17,9 @@ Hiシ, my name is Jan TH/EN . You can call me by the first month of the year in 
 </picture>
 
 ---
+
+[![Play on itch.io](https://img.shields.io/badge/Play-On%20itch.io-red?style=for-the-badge&logo=itch.io)](https://janriyavong-cyber.itch.io/sketched-grid-match-3)
+
 ---
 
 <pre>
