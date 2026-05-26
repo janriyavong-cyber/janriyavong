@@ -26,6 +26,6 @@ Hiシ, my name is Jan TH/EN . You can call me by the first month of the year in 
 </p>
 ---
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=janriyavong-cyber.janriyavong-cyber&left_color=black&right_color=green)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=janriyavong-cyber.janriyavong-cyber&left_color=black&right_color=grey)
 
 </div>
