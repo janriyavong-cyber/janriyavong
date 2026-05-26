@@ -21,10 +21,9 @@ Hello thereシ Allow me ❀ to introduce myself, this is Jan TH/EN . You can cal
 [![Play on itch.io](https://img.shields.io/badge/Play-On%20itch.io-red?style=for-the-badge&logo=itch.io)](https://janriyavong-cyber.itch.io/sketched-grid-match-3)
 
 ---
-<div align="center">
-  
-  ![<img width="300" height="300" alt="35F674AB-553C-4EA6-AF35-B4662212BF06" src="https://github.com/user-attachments/assets/0a1f26bb-f7ec-4612-86ca-7bff26a42db6" />
-]
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbms0NmR0MndzbXN4bTFlczB6ZGRnbWZ0M2ZxeXBtcWhyeGN0cHltYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7qE1YN7aBOFPRw8E/giphy.gif" width="350"/>
+</p>
 
 </div>
 ---
