@@ -21,9 +21,12 @@ Hiシ, my name is Jan TH/EN . You can call me by the first month of the year in 
 [![Play on itch.io](https://img.shields.io/badge/Play-On%20itch.io-red?style=for-the-badge&logo=itch.io)](https://janriyavong-cyber.itch.io/sketched-grid-match-3)
 
 ---
-<p align="center">
-  <img src="https://raw.githubusercontent.com/KrzysztofMarques/UI-ASCII-Cyberpunk/main/images/sea_waves.gif" width="450"/>
-</p>
+<div align="center">
+  
+  ![<img width="300" height="300" alt="35F674AB-553C-4EA6-AF35-B4662212BF06" src="https://github.com/user-attachments/assets/0a1f26bb-f7ec-4612-86ca-7bff26a42db6" />
+]
+
+</div>
 ---
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=janriyavong-cyber.janriyavong-cyber&left_color=black&right_color=grey)
