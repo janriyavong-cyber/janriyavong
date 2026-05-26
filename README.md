@@ -2,9 +2,9 @@
 
 <div align="center">
 
-# Allow me-! to introduce myself ❀
 
-Hiシ, my name is Jan TH/EN . You can call me by the first month of the year in any language जनवरी,Январь,一月,いちがつ,일월, just tell me which language it is ;p
+
+Hello thereシ Allow me ❀ to introduce myself, this is Jan TH/EN . You can call me by the first month of the year in any language जनवरी,Январь,一月,いちがつ,일월, just tell me which language it is ;p
 
 
 <picture>
