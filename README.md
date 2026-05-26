@@ -23,12 +23,9 @@ Hiシ, my name is Jan TH/EN . You can call me by the first month of the year in 
 ---
 
 
-
-  <p align="center">
-  <img src="
-  <img width="300" height="300" alt="35F674AB-553C-4EA6-AF35-B4662212BF06" src="https://github.com/user-attachments/assets/62d8ed6b-0098-4c7e-a1b8-47fc5df03905" />" width="500"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KrzysztofMarques/UI-ASCII-Cyberpunk/main/images/sea_waves.gif" width="450"/>
 </p>
-  
 
 
 ---
