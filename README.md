@@ -16,20 +16,17 @@ Hello thereシ Allow me ❀ to introduce myself, this is Jan TH/EN . You can cal
   <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=%E1%83%90++game+design+student.;I+enjoy+writing+novels;and+am+currently+learning+to+code">
 </picture>
 
----
+
 
 [![Play on itch.io](https://img.shields.io/badge/Play-On%20itch.io-red?style=for-the-badge&logo=itch.io)](https://janriyavong-cyber.itch.io/sketched-grid-match-3)
 
----
+
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbms0NmR0MndzbXN4bTFlczB6ZGRnbWZ0M2ZxeXBtcWhyeGN0cHltYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7qE1YN7aBOFPRw8E/giphy.gif" width="350"/>
 </p>
 
 </div>
 
-/\_/\
-( o.o )
-> ^ <
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=janriyavong-cyber.janriyavong-cyber&left_color=black&right_color=grey)
 
