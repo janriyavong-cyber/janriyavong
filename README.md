@@ -8,15 +8,9 @@ Hello thereシ Allow me ❀ to introduce myself, this is Jan TH/EN . You can cal
 
 
 <picture>
-  <!-- Dark mode = white -->
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Ars+longa,+vita+brevis">
-  <!-- Light mode = black -->
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=Ars+longa,+vita+brevis">
-  <!-- fallback -->
-  <img alt="Typing SVG"
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Ars+longa,+vita+brevis">
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFFFFF&vCenter=true&width=435&lines=Ars+Longa%2C+Vita+Brevis">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=000000&vCenter=true&width=435&lines=Ars+Longa%2C+Vita+Brevis">
+  <img alt="Ars Longa, Vita Brevis" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=000000&vCenter=true&width=435&lines=Ars+Longa%2C+Vita+Brevis">
 </picture>
 
 [![Play on itch.io](https://img.shields.io/badge/Play-On%20itch.io-red?style=for-the-badge&logo=itch.io)](https://janriyavong-cyber.itch.io/sketched-grid-match-3)
