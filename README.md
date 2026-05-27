@@ -26,12 +26,7 @@ Hello thereシ Allow me ❀ to introduce myself, this is Jan TH/EN . You can cal
 [![Play on itch.io](https://img.shields.io/badge/Play-On%20itch.io-red?style=for-the-badge&logo=itch.io)](https://janriyavong-cyber.itch.io/sketched-grid-match-3)
 
 
-<table border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="350" valign="top">
-      <img src="https://github.com/user-attachments/assets/26e4a70a-2f57-49c3-abc4-e9c5e266e342" width="350" alt="output" />
-    </td>
-    <td valign="top" style="padding-left: 20px;">
+
 
 </div>
 
