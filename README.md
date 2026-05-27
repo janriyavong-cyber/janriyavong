@@ -27,7 +27,8 @@ Hello thereシ Allow me ❀ to introduce myself, this is Jan TH/EN . You can cal
 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbms0NmR0MndzbXN4bTFlczB6ZGRnbWZ0M2ZxeXBtcWhyeGN0cHltYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7qE1YN7aBOFPRw8E/giphy.gif" width="350"/>
+  <img src="<img width="3600" height="3211" alt="output" src="https://github.com/user-attachments/assets/26e4a70a-2f57-49c3-abc4-e9c5e266e342" />
+" width="350"/>
 </p>
 
 </div>
