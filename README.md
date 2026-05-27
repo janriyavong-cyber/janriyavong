@@ -28,5 +28,6 @@ Hello thereシ Allow me ❀ to introduce myself, this is Jan TH/EN . You can cal
 
 
 <div align="left">
-  [![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=janriyavong-cyber.janriyavong-cyber&left_color=black&right_color=grey)](https://github.com/janriyavong-cyber)
+  
+[![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=janriyavong-cyber.janriyavong-cyber&left_color=black&right_color=grey)](https://github.com/janriyavong-cyber)
 </div>
